@@ -7,9 +7,9 @@ numbers = list(map(
     lambda num: int(num),
     numbers
 ))
-result = sum(numbers)
+
 print(numbers)
 
 output_file = 'Output/output01.txt'
 output_file_obj = open(output_file, 'w')
-output_file_obj.write(str(result))
+output_file_obj.write(str(numbers))
