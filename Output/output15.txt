@@ -1,0 +1,1 @@
+['Zafar', 'Dilnoza', 'Kamron', 'Aziza', 'Bekzod', 'Alisher', 'Anvar', 'Bunyod']
